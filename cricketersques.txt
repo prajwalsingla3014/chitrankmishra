@@ -1,0 +1,7 @@
+Is your character an Indian player ?
+Is he a batsman ?
+Is he a wicketkeeper ?
+Is he an opener ?
+Is he a bowler ?
+Is he recently married ?
+Is he retired ?
