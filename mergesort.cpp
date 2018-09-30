@@ -1,5 +1,5 @@
 #include<iostream>
-
+/* this program performs efficient sorting technique*/
 using namespace std;
 void mergesort(int arr[],int l,int r);
 void merge1(int arr[],int l,int m1, int m2,int r);
