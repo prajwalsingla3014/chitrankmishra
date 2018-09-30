@@ -1,5 +1,5 @@
 #include<iostream>
-
+/* radix sort code for efficient sorting. Coded in very lucid manner easy to understand.*/
 using namespace std;
 int count(int arr[], int n, int e);
 void radixsort(int arr[],int n);
